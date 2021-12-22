@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ckC139&hide=html,css&layout=default&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ckC139&hide=html,css&layout=compact&theme=default" />
 </a>
 
 
