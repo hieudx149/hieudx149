@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r1ckC139&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r1ckC139&show_icons=true&theme=default" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ckC139&hide=html,css&layout=compact&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ckC139&hide=html,css&layout=compact&theme=default" />
 </a>
 
 - 🔭 I’m currently working on VNPT-IT and PTIT
