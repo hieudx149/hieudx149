@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 </a> -->
 
 
-- 🔭 I’m currently working in VNPT-IT and PTIT
 - 👀 I’m interested in Natural Language Processing and its applications.
 - 👯 I’m looking to research opportunities, collaborate on Natural Language Processing
 - 📫 How to reach me: [email](duongxuanhieu1999@gmail.com)
