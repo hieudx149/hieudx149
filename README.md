@@ -1,4 +1,4 @@
-### Hi i'm Hieu Duong 👋
+### Hi there, i'm Hieu Duong 👋
 
 <!--
 **r1ckC139/r1ckC139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
